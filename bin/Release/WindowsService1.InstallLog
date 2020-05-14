@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe.
+Выполняется фиксация сборки 'D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.InstallLog
+   assemblypath = D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.

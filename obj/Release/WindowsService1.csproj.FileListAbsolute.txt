@@ -1,0 +1,6 @@
+D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe.config
+D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.exe
+D:\Projects\WindowsService1\WindowsService1\bin\Release\WindowsService1.pdb
+D:\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.exe
+D:\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.pdb
+D:\Projects\WindowsService1\WindowsService1\obj\Release\WindowsService1.csprojResolveAssemblyReference.cache
